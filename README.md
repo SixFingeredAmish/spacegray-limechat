@@ -1,4 +1,4 @@
-spacegrayish-limechat
+Spacegray theme for LimeChat
 =====================
 
 ![](files/screenshots/spacegray.png)
