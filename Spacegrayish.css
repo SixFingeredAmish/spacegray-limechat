@@ -1,5 +1,5 @@
 html {
-  font-family: 'Source Code Pro', 'Menlo', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', sans-serif;
+  font-family: 'SF Mono', 'Source Code Pro', 'Menlo', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', sans-serif;
   font-size: 10pt;
   background-color: #2b303b;
   color: #c0c5ce;
@@ -8,7 +8,7 @@ html {
   padding: 3px 4px 10px 4px;
 }
 
-body { margin: 0; padding: 0; }
+body { margin: 0; padding: 1rem; }
 
 /* for slack */
 .line[_type=mode] {
